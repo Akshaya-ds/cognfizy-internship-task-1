@@ -1,4 +1,4 @@
-# 🚀 Cognfizy Internship Task 1 - Web Development
+# 🚀 Cognifzy Internship Task 1 - Web Development
 
 This project is part of my internship at **Cognfizy**.  
 It demonstrates basic **HTML + CSS skills** by building simple but modern UI pages.
@@ -43,6 +43,6 @@ This project contains 3 main web pages:
 ---
 
 authour -- T.Akshaya 
-           Intern @ Cognfizy
+           Intern @ Cognifzy
 
 ## 📂 Project Structure
